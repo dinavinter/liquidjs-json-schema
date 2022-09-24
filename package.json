@@ -1,0 +1,9 @@
+{
+  "name": "@liquidjs/json-schema",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dinavinter/liquidjs-json-schema",
+  "author": "@dinavinter",
+  "license": "MIT",
+  "private": false
+}
